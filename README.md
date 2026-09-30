@@ -10,7 +10,7 @@
   Building modern web experiences with AI 🚀
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,python,git,github" />
 
 <br><br>
 
