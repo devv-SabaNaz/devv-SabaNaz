@@ -55,79 +55,94 @@
 
 ## 📌 Featured Projects
 
-### 🤖 CareerCraft AI
+<table>
+<tr>
 
-An AI-powered career companion and portfolio assistant designed to help visitors explore my skills, education, projects, experience, and certifications.
+<td width="50%" valign="top">
 
-**Built with:** Next.js • TypeScript • Tailwind CSS • AI SDK • Gemini
+<h3>🤖 CareerCraft AI</h3>
 
-**Key Features:**
+<p>
+An AI-powered career companion and portfolio assistant built to showcase skills, education, projects, experience, and certifications through an interactive AI interface.
+</p>
 
-* ⚡ Streaming AI responses
-* 📝 Markdown-formatted answers
-* 💡 Suggested prompts
-* 📋 Copy & regenerate actions
-* 🌙 Dark mode
-* 📱 Responsive UI
+<p>
+<b>Built with:</b><br>
+Next.js • TypeScript • Tailwind CSS • AI SDK • Gemini
+</p>
 
----
+<a href="https://fe-06-streaming-chat-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-### ☕ Brew & Bloom Café
+</td>
 
-A responsive café website focused on modern frontend design, clean layouts, and responsive user experiences.
+<td width="50%" valign="top">
 
-**Focus:** HTML • CSS • Responsive Web Design • CSS Flexbox • CSS Grid
+<h3>☕ Brew & Bloom Café</h3>
 
----
+<p>
+A responsive café website focused on clean layouts, modern frontend design, and a user-friendly experience across different screen sizes.
+</p>
+
+<p>
+<b>Built with:</b><br>
+HTML • CSS • Responsive Web Design • Flexbox • CSS Grid
+</p>
+
+<a href="https://devv-sabanaz.github.io/Brew-Bloom">
+<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devv-SabaNaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=devv-SabaNaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devv-SabaNaz&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devv-SabaNaz&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
----
-
 ## 🌱 Currently Learning
 
-```text
-JavaScript
-   ↓
-Frontend Development
-   ↓
-Next.js
-   ↓
-AI Integration
-   ↓
-AI-Powered Web Applications
-```
+<div align="center">
 
----
+|        📚 Learning       |             🎯 Focus            |
+| :----------------------: | :-----------------------------: |
+|      **JavaScript**      |   Strengthening core concepts   |
+| **Frontend Development** |  Building responsive interfaces |
+|        **Next.js**       |      Modern web development     |
+|    **AI Integration**    | Creating AI-powered experiences |
+
+</div>
+
+> 💡 **Learning by building — one project at a time.**
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saba-naz-datascientist/">
-<img src="https://img.shields.io/badge/LinkedIn-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/devv-SabaNaz">
-<img src="https://img.shields.io/badge/GitHub-8A5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br><br>
+
+💬 **Always open to learning, collaborating, and connecting with fellow developers.**
+
+<br><br>
+
+### ✨ Building • Learning • Improving 🚀
 
 </div>
 
-<br>
 
-<div align="center">
 
-### ✨ Building. Learning. Improving. 🚀
 
-</div>
+
