@@ -45,59 +45,29 @@
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
-### AI
+## 📌 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 🤖 CareerCraft AI
+
+An AI-powered career companion and portfolio assistant built to showcase skills, education, projects, experience, and certifications through an interactive AI interface.
+
+**Built with:** Next.js • TypeScript • Tailwind CSS • AI SDK • Gemini
+
+<a href="https://fe-06-streaming-chat-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
-## 📌 Featured Projects
+### ☕ Brew & Bloom Café
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🤖 CareerCraft AI</h3>
-
-<p>
-An AI-powered career companion and portfolio assistant built to showcase skills, education, projects, experience, and certifications through an interactive AI interface.
-</p>
-
-<p>
-<b>Built with:</b><br>
-Next.js • TypeScript • Tailwind CSS • AI SDK • Gemini
-</p>
-
-<a href="https://fe-06-streaming-chat-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>☕ Brew & Bloom Café</h3>
-
-<p>
 A responsive café website focused on clean layouts, modern frontend design, and a user-friendly experience across different screen sizes.
-</p>
 
-<p>
-<b>Built with:</b><br>
-HTML • CSS • Responsive Web Design • Flexbox • CSS Grid
-</p>
+**Built with:** HTML • CSS • Responsive Web Design • Flexbox • CSS Grid
 
 <a href="https://devv-sabanaz.github.io/Brew-Bloom">
-<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-
-</td>
-
-</tr>
-</table>
 
 ## 📊 GitHub Stats
 
