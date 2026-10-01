@@ -36,7 +36,7 @@
 
 🎓 BS Data Science student, learning by **building real projects**
 
-⚡ Fun fact **I enjoy turning ideas into interactive web experiences 🚀**
+⚡ Fun fact **One small coding change can turn into a 2-hour debugging session 😂**
 
 </td>
 
