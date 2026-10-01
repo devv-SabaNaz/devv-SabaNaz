@@ -106,7 +106,6 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 💬 **Always open to learning, collaborating, and connecting with fellow developers.**
 <br><br>
-
 ### ✨ Building • Learning • Improving 🚀
 </div>
 
@@ -120,10 +119,3 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/output/github-contribution-grid-snake.svg" />
-
-</div>
