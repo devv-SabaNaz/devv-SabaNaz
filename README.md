@@ -41,7 +41,7 @@
 </td>
 
 <td width="40%" align="center">
-<img align="right" alt="girl doing web development" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e"/>
+<img align="right" alt="girls who code" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4"/>
 </td>
 
 </tr>
