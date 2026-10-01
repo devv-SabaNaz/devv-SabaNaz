@@ -4,10 +4,10 @@
 
 <h2>👋 Hi, I'm Saba Naz</h2>
 
-<h3>Frontend Developer | AI Engineering | BS Data Science Student</h3>
-
 <p>
-  Building modern web experiences with AI 🚀
+💻 Frontend Developer • 🤖 AI Engineering • 🎓 BS Data Science Student
+<br>
+✨ Building modern web experiences with AI
 </p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,python,git,github" />
@@ -19,15 +19,35 @@
 </div>
 
 ---
+### 👩‍💻 About Me
 
-## 🚀 About Me
+<table>
+<tr>
 
-* 🎓 BS Data Science student
-* 💻 Focused on frontend development and AI engineering
-* 🤖 Interested in building AI-powered web applications
-* 🌱 Currently strengthening my JavaScript skills
-* 🛠️ Building projects to improve my development skills
-* 📚 Always learning, experimenting, and improving
+<td width="60%">
+
+🔭 Building **modern web experiences & AI-powered applications**
+
+🌱 Currently strengthening **JavaScript & Frontend Development**
+
+🤖 Exploring **AI Engineering & AI integration**
+
+💻 Frontend Developer focused on **HTML, CSS, JavaScript, Next.js & Tailwind CSS**
+
+🎓 BS Data Science student, learning by **building real projects**
+
+⚡ Fun fact **I enjoy turning ideas into interactive web experiences 🚀**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="GIF-URL-HERE" width="300">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
