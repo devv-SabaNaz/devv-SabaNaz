@@ -105,12 +105,11 @@ A responsive café website focused on clean layouts, modern frontend design, and
 <br><br>
 
 💬 **Always open to learning, collaborating, and connecting with fellow developers.**
-
 <br><br>
 
 ### ✨ Building • Learning • Improving 🚀
 </div>
----
+
 ---
 
 ## 🐍 Contribution Activity
