@@ -111,6 +111,15 @@ A responsive café website focused on clean layouts, modern frontend design, and
 ### ✨ Building • Learning • Improving 🚀
 </div>
 ---
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/gh-pages/github-contribution-grid-snake.svg" />
+
+</div>
 
 ## 🐍 Contribution Activity
 
