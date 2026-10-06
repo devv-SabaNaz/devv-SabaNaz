@@ -8,10 +8,6 @@
 
 <p>
 💻 <b>Frontend Developer</b> • 🤖 <b>AI Engineering</b> • 🎓 <b>BS Data Science — 3rd Semester</b>
-<br>
-✨ Building modern web experiences with AI
-<br>
-📚 <b>JavaScript Completed</b> • 🌱 <b>Currently Learning React.js</b>
 </p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,git,github" />
@@ -24,15 +20,9 @@
 
 ---
 
-<div align="center">
+### 👩‍💻 About Me
 
-# 👩‍💻 About Me
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="60%">
@@ -60,33 +50,21 @@
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+### Frontend
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
-
-### 🎨 Frontend
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-<br><br>
+### Programming & Tools
 
-### 🐍 Programming & Tools
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-# 📌 Featured Projects
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
-
-</div>
+## 📌 Featured Projects
 
 ### 🤖 CareerCraft AI
 
@@ -118,15 +96,9 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 </div>
 
----
+## 📊 GitHub Stats
 
 <div align="center">
-
-# 📊 GitHub Stats
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
-
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=devv-SabaNaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
 
@@ -134,39 +106,25 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 </div>
 
----
+## 🌱 Currently Learning
 
 <div align="center">
 
-# 🌱 Currently Learning
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
-
-<br>
-
-|        📚 Learning       |        🎯 Focus        |
-| :----------------------: | :--------------------: |
-|      **JavaScript**      |       ✅ Completed      |
-|       **React.js**       |  🌱 Currently Learning |
-| **Frontend Development** |  Responsive Interfaces |
-|        **Next.js**       | Modern Web Development |
-|    **AI Integration**    | AI-Powered Experiences |
-
-<br>
-
-> 💡 **Learning by building — one project at a time.**
+|        📚 Learning       |              🎯 Focus              |
+| :----------------------: | :--------------------------------: |
+|      **JavaScript**      |      ✅ Completed core concepts     |
+|       **React.js**       | 🌱 Currently learning & practicing |
+| **Frontend Development** |   Building responsive interfaces   |
+|        **Next.js**       |       Modern web development       |
+|    **AI Integration**    |   Creating AI-powered experiences  |
 
 </div>
 
----
+> 💡 **Learning by building — one project at a time.**
+
+## 🤝 Let's Connect
 
 <div align="center">
-
-# 🤝 Let's Connect
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/saba-naz-datascientist/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -184,13 +142,9 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
-
-# 🐍 Contribution Activity
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
-
-<br><br>
 
 <img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/gh-pages/github-contribution-grid-snake.svg" />
 
@@ -200,6 +154,6 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=160&section=footer"/>
 
 </div>
