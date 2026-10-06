@@ -7,11 +7,11 @@
 </p>
 
 <p>
-💻 Frontend Developer • 🤖 AI Engineering • 🎓 BS Data Science — 3rd Semester
+💻 <b>Frontend Developer</b> • 🤖 <b>AI Engineering</b> • 🎓 <b>BS Data Science — 3rd Semester</b>
 <br>
 ✨ Building modern web experiences with AI
 <br>
-📚 JavaScript Completed • 🌱 Currently Learning React.js
+📚 <b>JavaScript Completed</b> • 🌱 <b>Currently Learning React.js</b>
 </p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,git,github" />
@@ -24,7 +24,13 @@
 
 ---
 
-### 👩‍💻 About Me
+<div align="center">
+
+# 👩‍💻 About Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
+
+</div>
 
 <table>
 <tr>
@@ -50,7 +56,9 @@
 </td>
 
 <td width="40%" align="center">
-<img align="right" alt="girl coding" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"/>
+
+<img alt="girl coding" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"/>
+
 </td>
 
 </tr>
@@ -58,21 +66,33 @@
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Frontend
+# 🛠️ Tech Stack
 
-<p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
+
+### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
 
-### Programming & Tools
+<br><br>
 
-<p>
+### 🐍 Programming & Tools
+
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
 
-## 📌 Featured Projects
+</div>
+
+---
+
+<div align="center">
+
+# 📌 Featured Projects
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
+
+</div>
 
 ### 🤖 CareerCraft AI
 
@@ -80,9 +100,13 @@ An AI-powered career companion and portfolio assistant built to showcase skills,
 
 **Built with:** Next.js • TypeScript • Tailwind CSS • AI SDK • Gemini
 
+<div align="center">
+
 <a href="https://fe-06-streaming-chat-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+</div>
 
 ---
 
@@ -92,13 +116,23 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 **Built with:** HTML • CSS • Responsive Web Design • Flexbox • CSS Grid
 
+<div align="center">
+
 <a href="https://devv-sabanaz.github.io/Brew-Bloom">
-<img src="https://img.shields.io/badge/Live%20Demo-8A5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-## 📊 GitHub Stats
+</div>
+
+---
 
 <div align="center">
+
+# 📊 GitHub Stats
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=devv-SabaNaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
 
@@ -106,9 +140,15 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 </div>
 
-## 🌱 Currently Learning
+---
 
 <div align="center">
+
+# 🌱 Currently Learning
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
+
+<br>
 
 |        📚 Learning       |                🎯 Focus                |
 | :----------------------: | :------------------------------------: |
@@ -118,13 +158,21 @@ A responsive café website focused on clean layouts, modern frontend design, and
 |        **Next.js**       |         Modern web development         |
 |    **AI Integration**    |     Creating AI-powered experiences    |
 
-</div>
+<br>
 
 > 💡 **Learning by building — one project at a time.**
 
-## 🤝 Let's Connect
+</div>
+
+---
 
 <div align="center">
+
+# 🤝 Let's Connect
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/saba-naz-datascientist/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -132,7 +180,9 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 <br><br>
 
-💬 **Always open to learning, collaborating, and connecting with fellow developers.** <br><br>
+💬 **Always open to learning, collaborating, and connecting with fellow developers.**
+
+<br><br>
 
 ### ✨ Building • Learning • Improving 🚀
 
@@ -140,10 +190,26 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 ---
 
-## 🐍 Contribution Activity
+<div align="center">
+
+# 🐍 Contribution Activity
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A5CF6&height=2&section=header"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/gh-pages/github-contribution-grid-snake.svg" />
+
+<br><br>
+
+### 💜 Consistency • Growth • Progress
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/gh-pages/github-contribution-grid-snake.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=100&section=footer"/>
 
 </div>
