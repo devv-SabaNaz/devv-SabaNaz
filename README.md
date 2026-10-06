@@ -3,16 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=180&section=header&text=Saba%20Naz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saba+Naz+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;AI+Engineering+%F0%9F%A4%96;JavaScript+%7C+Next.js+%7C+Python;Building+modern+web+experiences+with+AI+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saba+Naz+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;AI+Engineering+%F0%9F%A4%96;JavaScript+%E2%9C%85+%7C+React.js+%F0%9F%8C%B1+%7C+Next.js+%7C+Python;Building+modern+web+experiences+with+AI+%F0%9F%9A%80" />
 </p>
 
 <p>
-💻 Frontend Developer • 🤖 AI Engineering • 🎓 BS Data Science Student
+💻 Frontend Developer • 🤖 AI Engineering • 🎓 BS Data Science — 3rd Semester
 <br>
 ✨ Building modern web experiences with AI
+<br>
+📚 JavaScript Completed • 🌱 Currently Learning React.js
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,python,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,git,github" />
 
 <br><br>
 
@@ -21,6 +23,7 @@
 </div>
 
 ---
+
 ### 👩‍💻 About Me
 
 <table>
@@ -30,13 +33,17 @@
 
 🔭 Building **modern web experiences & AI-powered applications**
 
-🌱 Currently strengthening **JavaScript & Frontend Development**
+🌱 Currently learning **React.js** and strengthening my frontend development skills
 
-🤖 Exploring **AI Engineering & AI integration**
+✅ Completed my **JavaScript learning journey** and now applying it through real projects
 
-💻 Frontend Developer focused on **HTML, CSS, JavaScript, Next.js & Tailwind CSS**
+🤖 Exploring **AI Engineering & AI integration** to build smarter web experiences
 
-🎓 BS Data Science student, learning by **building real projects**
+💻 Frontend Developer focused on **HTML, CSS, JavaScript, React.js, Next.js & Tailwind CSS**
+
+🎓 **BS Data Science student — currently in 3rd semester**, learning by building real projects
+
+🛠️ Interested in creating **clean, responsive, user-friendly, and efficient web interfaces**
 
 ⚡ Fun fact **One small coding change can turn into a 2-hour debugging session 😂**
 
@@ -48,6 +55,7 @@
 
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -55,7 +63,7 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### Programming & Tools
@@ -102,12 +110,13 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 <div align="center">
 
-|        📚 Learning       |             🎯 Focus            |
-| :----------------------: | :-----------------------------: |
-|      **JavaScript**      |   Strengthening core concepts   |
-| **Frontend Development** |  Building responsive interfaces |
-|        **Next.js**       |      Modern web development     |
-|    **AI Integration**    | Creating AI-powered experiences |
+|        📚 Learning       |                🎯 Focus                |
+| :----------------------: | :------------------------------------: |
+|      **JavaScript**      |        ✅ Completed core concepts       |
+|       **React.js**       |   🌱 Currently learning & practicing   |
+| **Frontend Development** | Building clean & responsive interfaces |
+|        **Next.js**       |         Modern web development         |
+|    **AI Integration**    |     Creating AI-powered experiences    |
 
 </div>
 
@@ -123,9 +132,10 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 <br><br>
 
-💬 **Always open to learning, collaborating, and connecting with fellow developers.**
-<br><br>
+💬 **Always open to learning, collaborating, and connecting with fellow developers.** <br><br>
+
 ### ✨ Building • Learning • Improving 🚀
+
 </div>
 
 ---
@@ -137,4 +147,3 @@ A responsive café website focused on clean layouts, modern frontend design, and
 <img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/gh-pages/github-contribution-grid-snake.svg" />
 
 </div>
-
