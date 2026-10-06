@@ -10,7 +10,7 @@
 💻 <b>Frontend Developer</b> • 🤖 <b>AI Engineering</b> • 🎓 <b>BS Data Science — 3rd Semester</b>
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,git,github" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Saba+Naz+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;AI+Engineering+%F0%9F%A4%96;JavaScript+%E2%9C%85+%7C+React.js+%F0%9F%8C%B1+%7C+Next.js+%7C+Python;Building+modern+web+experiences+with+AI+%F0%9F%9A%80" />
 
 <br><br>
 
