@@ -37,21 +37,15 @@
 
 <td width="60%">
 
-🔭 Building **modern web experiences & AI-powered applications**
+🎓 **BS Data Science — 3rd Semester**
 
-🌱 Currently learning **React.js** and strengthening my frontend development skills
+💻 Focused on **Frontend Development & AI Engineering**
 
-✅ Completed my **JavaScript learning journey** and now applying it through real projects
+✅ **JavaScript completed** — currently learning **React.js**
 
-🤖 Exploring **AI Engineering & AI integration** to build smarter web experiences
+🤖 Building **AI-powered & responsive web experiences**
 
-💻 Frontend Developer focused on **HTML, CSS, JavaScript, React.js, Next.js & Tailwind CSS**
-
-🎓 **BS Data Science student — currently in 3rd semester**, learning by building real projects
-
-🛠️ Interested in creating **clean, responsive, user-friendly, and efficient web interfaces**
-
-⚡ Fun fact **One small coding change can turn into a 2-hour debugging session 😂**
+🛠️ Learning through **real projects and hands-on practice**
 
 </td>
 
@@ -150,13 +144,13 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 <br>
 
-|        📚 Learning       |                🎯 Focus                |
-| :----------------------: | :------------------------------------: |
-|      **JavaScript**      |        ✅ Completed core concepts       |
-|       **React.js**       |   🌱 Currently learning & practicing   |
-| **Frontend Development** | Building clean & responsive interfaces |
-|        **Next.js**       |         Modern web development         |
-|    **AI Integration**    |     Creating AI-powered experiences    |
+|        📚 Learning       |        🎯 Focus        |
+| :----------------------: | :--------------------: |
+|      **JavaScript**      |       ✅ Completed      |
+|       **React.js**       |  🌱 Currently Learning |
+| **Frontend Development** |  Responsive Interfaces |
+|        **Next.js**       | Modern Web Development |
+|    **AI Integration**    | AI-Powered Experiences |
 
 <br>
 
@@ -204,12 +198,8 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 ### 💜 Consistency • Growth • Progress
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=180&section=footer"/>
 
 </div>
