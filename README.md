@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=180&section=header&text=Saba%20Naz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saba+Naz+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;AI+Engineering+%F0%9F%A4%96;JavaScript+%E2%9C%85+%7C+React.js+%F0%9F%8C%B1+%7C+Next.js+%7C+Python;Building+modern+web+experiences+with+AI+%F0%9F%9A%80" />
-</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saba+Naz+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;AI+Engineering+%F0%9F%A4%96;JavaScript+%E2%9C%85+%7C+React.js+%F0%9F%8C%B1+%7C+Next.js+%7C+Python;Building+modern+web+experiences+with+AI+%F0%9F%9A%80" />
+</p>  
 
 <p>
 💻 <b>Frontend Developer</b> • 🤖 <b>AI Engineering</b> • 🎓 <b>BS Data Science — 3rd Semester</b>
