@@ -95,19 +95,19 @@ A responsive café website focused on clean layouts, modern frontend design, and
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-
-</div> 
-
-
 ## 💜 My GitRoll Profile
 
 <div align="center">
 
-<img src="https://gitroll.io/api/badges/profiles/v1/uTFz459UMgndm9r4ZWXVxH6TTnR63" alt="Saba Naz GitRoll Profile Card" width="600" />
+<a href="https://gitroll.io/profile/uTFz459UMgndm9r4ZWXVxH6TTnR63">
+
+<img src="https://gitroll.io/api/badges/profiles/v1/uTFz459UMgndm9r4ZWXVxH6TTnR63?theme=light" alt="Saba Naz GitRoll Profile Badge"/>
+
+</a>
 
 </div>
 
-
+</div> 
 
 ## 📊 GitHub Stats
 
