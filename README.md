@@ -90,11 +90,24 @@ A responsive café website focused on clean layouts, modern frontend design, and
 
 <div align="center">
 
-<a href="https://devv-sabanaz.github.io/Brew-Bloom">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+<a href="https://brew-bloom-cafe-orcin.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+
+</div> 
+
+## 💜 My GitRoll Profile
+
+<div align="center">
+
+[![GitRoll Profile](https://img.shields.io/badge/GitRoll-View%20My%20Profile-8A5CF6?style=for-the-badge)](https://gitroll.io/profile/uTFz459UMgndm9r4ZWXVxH6TTnR63)
+
+**Explore my developer profile and coding insights on GitRoll.**
+
 </div>
+
 
 ## 📊 GitHub Stats
 
