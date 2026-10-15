@@ -104,7 +104,7 @@ A responsive café website focused on clean layouts, modern frontend design, and
 </p>
 
 <p align="center">
-  🌷 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜
+  💖 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜
 </p>
 
 ## 📊 GitHub Stats
