@@ -94,20 +94,18 @@ A responsive café website focused on clean layouts, modern frontend design, and
 <a href="https://brew-bloom-cafe-orcin.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
+ 
 ## 💜 My GitRoll Profile
 
-<div align="center">
+<p align="center">
+  <a href="https://gitroll.io/profile/uTFz459UMgndm9r4ZWXVxH6TTnR63">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uTFz459UMgndm9r4ZWXVxH6TTnR63?theme=retro" alt="GitRoll Developer Profile" width="65%">
+  </a>
+</p>
 
-<a href="https://gitroll.io/profile/uTFz459UMgndm9r4ZWXVxH6TTnR63">
-
-<img src="https://gitroll.io/api/badges/profiles/v1/uTFz459UMgndm9r4ZWXVxH6TTnR63?theme=light" alt="Saba Naz GitRoll Profile Badge"/>
-
-</a>
-
-</div>
-
-</div> 
+<p align="center">
+  🌷 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜
+</p>
 
 ## 📊 GitHub Stats
 
