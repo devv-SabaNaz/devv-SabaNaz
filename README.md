@@ -1,179 +1,153 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=200&section=header&text=Saba%20Naz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=180&section=header&text=Saba%20Naz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Saba+Naz+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Exploring+AI+Engineering+%F0%9F%A4%96;JavaScript+%E2%9C%85+%7C+Learning+React.js+%F0%9F%8C%B1;Building+modern+web+experiences+%F0%9F%9A%80" />
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saba+Naz+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;AI+Engineering+%F0%9F%A4%96;JavaScript+%E2%9C%85+%7C+React.js+%F0%9F%8C%B1+%7C+Next.js+%7C+Python;Building+modern+web+experiences+with+AI+%F0%9F%9A%80" />
+</p>  
 
 <p>
-  <b>💻 Frontend Development</b> &nbsp; • &nbsp;
-  <b>🤖 AI Engineering</b> &nbsp; • &nbsp;
-  <b>🎓 BS Data Science</b>
+💻 <b>Frontend Developer</b> • 🤖 <b>AI Engineering</b> • 🎓 <b>BS Data Science — 3rd Semester</b>
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,git,github" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=devv-SabaNaz&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://gitroll.io/profile/uTFz459UMgndm9r4ZWXVxH6TTnR63">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uTFz459UMgndm9r4ZWXVxH6TTnR63?theme=retro" alt="Saba Naz GitRoll Profile" width="55%"/>
-</a>
-
-<br/>
-
-<i>🌷 Every commit tells a story, and every project brings me one step closer to my goals! 💜</i>
+<img src="https://komarev.com/ghpvc/?username=devv-SabaNaz&label=Profile%20Views&color=8A5CF6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 💜 About Me
+### 👩‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="center">
 
-🎓 **BS Data Science Student**
+<td width="60%">
 
-💻 Exploring **Frontend Development & AI Engineering**
+🎓 **BS Data Science — 3rd Semester**
 
-✅ Completed core **HTML, CSS & JavaScript**
+💻 Focused on **Frontend Development & AI Engineering**
 
-🌱 Currently learning **React.js**
+✅ **JavaScript completed** — currently learning **React.js**
 
-🤖 Interested in building **AI-powered web experiences**
+🤖 Building **AI-powered & responsive web experiences**
 
-🛠️ Improving my skills through practical projects and hands-on learning
-
-✨ Believing in consistent learning, creativity, and progress.
+🛠️ Learning through **real projects and hands-on practice**
 
 </td>
-<td width="40%" align="center" valign="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="260" alt="Girl coding animation"/>
+<td width="40%" align="center">
+
+<img alt="girl coding" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### Programming & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
-### Areas of Interest
-
-<p>
-<img src="https://img.shields.io/badge/Responsive%20Design-EDE9FE?style=for-the-badge&logo=css3&logoColor=6D28D9"/>
-<img src="https://img.shields.io/badge/Frontend%20Development-F3E8FF?style=for-the-badge&logo=html5&logoColor=7E22CE"/>
-<img src="https://img.shields.io/badge/AI%20Integration-DBEAFE?style=for-the-badge&logo=google-gemini&logoColor=4338CA"/>
-</p>
-
----
-
-## ✨ Featured Projects
+## 📌 Featured Projects
 
 ### 🤖 CareerCraft AI
 
-An AI-powered career companion and portfolio assistant designed to showcase skills, education, projects, experience, and certifications through an interactive AI interface.
+An AI-powered career companion and portfolio assistant built to showcase skills, education, projects, experience, and certifications through an interactive AI interface.
 
-**Built with:** Next.js · TypeScript · Tailwind CSS · AI SDK · Gemini
+**Built with:** Next.js • TypeScript • Tailwind CSS • AI SDK • Gemini
 
-<p>
+<div align="center">
+
 <a href="https://fe-06-streaming-chat-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-</p>
+
+</div>
 
 ---
 
 ### ☕ Brew & Bloom Café
 
-A responsive café website focused on clean layouts, modern frontend styling, and a welcoming user experience across different screen sizes.
+A responsive café website focused on clean layouts, modern frontend design, and a user-friendly experience across different screen sizes.
 
-**Built with:** HTML · CSS · Responsive Web Design · Flexbox · CSS Grid
-
-<p>
-<a href="https://brew-bloom-cafe-orcin.vercel.app/">
-<img src="https://img.shields.io/badge/☕%20LIVE%20DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Analytics
+**Built with:** HTML • CSS • Responsive Web Design • Flexbox • CSS Grid
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devv-SabaNaz&show_icons=true&theme=shades-of-purple&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devv-SabaNaz&theme=purple&hide_border=true"/>
+<a href="https://brew-bloom-cafe-orcin.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+ 
+## 💜 My GitRoll Profile
 
-<br/><br/>
+<p align="center">
+  <a href="https://gitroll.io/profile/uTFz459UMgndm9r4ZWXVxH6TTnR63">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uTFz459UMgndm9r4ZWXVxH6TTnR63?theme=retro" alt="GitRoll Developer Profile" width="65%">
+  </a>
+</p>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-SabaNaz&layout=compact&theme=shades-of-purple&hide_border=true"/>
+<p align="center">
+  🌷 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devv-SabaNaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devv-SabaNaz&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
----
 
 ## 🌱 Currently Learning
 
 <div align="center">
 
-| 📚 Learning | 🎯 Focus |
-|:---:|:---|
-| **HTML & CSS** | Building structured, responsive interfaces |
-| **JavaScript** | Practicing core concepts through projects |
-| **React.js** | Learning components and modern UI development |
-| **Frontend Development** | Improving layouts and user experience |
-| **AI Integration** | Exploring AI-powered web applications |
+|        📚 Learning       |              🎯 Focus              |
+| :----------------------: | :--------------------------------: |
+|      **JavaScript**      |      ✅ Completed core concepts     |
+|       **React.js**       | 🌱 Currently learning & practicing |
+| **Frontend Development** |   Building responsive interfaces   |
+|        **Next.js**       |       Modern web development       |
+|    **AI Integration**    |   Creating AI-powered experiences  |
 
 </div>
 
-<p align="center">
-  <i>💜 Learning by building — one project at a time.</i>
-</p>
-
----
+> 💡 **Learning by building — one project at a time.**
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saba-naz-datascientist/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<a href="https://github.com/devv-SabaNaz">
-<img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+💬 **Always open to learning, collaborating, and connecting with fellow developers.**
 
-<br/><br/>
+<br><br>
 
-<i>Always open to learning, collaborating, and connecting with fellow developers.</i>
-
-<br/><br/>
-
-### 💜 Building · Learning · Improving
+### ✨ Building • Learning • Improving 🚀
 
 </div>
 
@@ -183,10 +157,14 @@ A responsive café website focused on clean layouts, modern frontend styling, an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/devv-SabaNaz/devv-SabaNaz/gh-pages/github-contribution-grid-snake.svg" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=130&section=footer"/>
+### 💜 Consistency • Growth • Progress
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=160&section=footer"/>
 
 </div>
